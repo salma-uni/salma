@@ -1,0 +1,48 @@
+body {
+    color: black;   
+	background-color: #c5e9dc; 
+	font-size: 20px;
+	font-family: Helvetica;
+}
+h1 {
+  color: #001c05;
+	font-size: 20px;
+	font-family: Helvetica;
+}
+header{
+	color: rgb(10,204,99);
+}
+a {
+  color: #2271b1;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+a:hover {
+  color: #2271b1;
+  text-decoration: underline;
+}
+#round{
+	border-radius: 50%;
+}
+.box-yellow{
+	background:#dba617 ;
+	height: 100px;
+	padding: 20px;
+	margin: 30px;
+	border-radius: 30px;
+}
+
+.card-white {
+  background: white;
+  padding: 30px;
+  border: 1px solid lightgrey;
+  margin: 20px 0px 20px 0px;
+  box-shadow: 10px 5px 10px grey;
+}
+.container {
+  width: 700px; /* set the width of your container */
+  margin: 40px auto; /* set margins: top/bottom: 40px; left/right: automatic */
+}
+.espace{
+	margin: 30px;
+}
